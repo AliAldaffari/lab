@@ -1,2 +1,7 @@
 C:\Users\Hanan\gitlab\lab
+<<<<<<< HEAD
 
+=======
+hello, i'm hatoon 
+hi im noura 
+>>>>>>> b5863f4662dee615094c6f8c6d03004e11ad8ea3
